@@ -1,10 +1,10 @@
-= 交通规划课程
+# 交通规划课程
 
-== 资源
+## 资源
 Python实现的交通分配算法
 https://github.com/megacell/python-traffic-assignment
 
-== 课程项目提交说明
+## 课程项目提交说明
 
 - 注册Github账号
 - 分支（fork）本仓库
